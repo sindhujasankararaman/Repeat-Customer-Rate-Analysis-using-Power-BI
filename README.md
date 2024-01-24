@@ -1,1 +1,2 @@
-# HR-ANALYTICS-DASHBOARD-USING-POWER-BI
+# Project Overview: 
+The primary objective of this project is to implement a dynamic HR Analytics Dashboard using Power BI, offering a comprehensive and real-time view of critical organizational HR metrics. This dashboard will serve as a centralized hub for visualizing key performance indicators (KPIs), encompassing employee count, attrition rates, department-wise attrition, and other vital HR metrics.  The goal is to establish the dashboard as an essential tool for informed decision-making, contributing to a data-driven culture within the organization.
