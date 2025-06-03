@@ -1,6 +1,8 @@
 # Project Overview: 
 Business success isn’t just about attracting new customers; it’s about ensuring that those who have purchased once choose to return. I developed a Power BI dashboard that enables stakeholders to gain clear insights into Customer Repeat Value (CRV) and the key factors influencing it. This metric empowers businesses to fine-tune their strategies, boost customer loyalty, and ultimately increase lifetime customer value and overall revenue.
 # 📖 Customer Repeat Value Story: Driving Loyalty Through Seasonal Trends and Campaign Insights
+![image](https://github.com/user-attachments/assets/93e146be-65f5-4d9b-8202-01d1d6fda2f5)
+
 In a competitive market, customer retention is just as critical as customer acquisition. Our latest analysis, visualized through an interactive Power BI dashboard, dives deep into understanding repeat customer behavior.
 
 Out of a total of 5,000 customers, 1,474 returned for at least one more purchase, resulting in a repeat customer rate of 29.5%. While this rate gives us a strong baseline for loyalty, the trends across seasons reveal deeper insights.
