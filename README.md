@@ -11,7 +11,7 @@ To ensure the accuracy and quality of the analysis, I utilized Power Query withi
 
 -   Removing duplicates and handling missing values
 
--Formatting and standardizing date and categorical fields
+-   Formatting and standardizing date and categorical fields
 
 -Merging and shaping datasets such as customer transactions, campaign data, and regional information
 
