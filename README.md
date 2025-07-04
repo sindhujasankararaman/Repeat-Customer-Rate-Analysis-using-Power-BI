@@ -13,41 +13,41 @@ To ensure the accuracy and quality of the analysis, I utilized Power Query withi
 
 -   Formatting and standardizing date and categorical fields
 
--Merging and shaping datasets such as customer transactions, campaign data, and regional information
+-   Merging and shaping datasets such as customer transactions, campaign data, and regional information
 
--Creating calculated columns and measures to support analysis
+-   Creating calculated columns and measures to support analysis
 
 For the visualization and insights delivery, I leveraged Power BI’s rich visualization capabilities to build interactive dashboards that illustrate:
 
--Monthly and seasonal trends in repeat customer purchases
+-  Monthly and seasonal trends in repeat customer purchases
 
--Geographic distribution of repeat customer rates and orders
+-  Geographic distribution of repeat customer rates and orders
 
--The impact of marketing campaigns on repeat purchase behavior
+-  The impact of marketing campaigns on repeat purchase behavior
 
--Key metrics like repeat customer rate, sales contribution, and purchase frequency
+-  Key metrics like repeat customer rate, sales contribution, and purchase frequency
 
 This combination of Power Query for data preparation and Power BI for visualization enabled a seamless end-to-end analytics workflow, providing clear and actionable insights for stakeholders.
 # Business Questions
 I have delved deep into the data to answer the following business questions
-What is the total size of our customer base, and how many of them are repeat customers?
+1. What is the total size of our customer base, and how many of them are repeat customers?
 
-What percentage of our customers are repeat buyers, and how does this reflect on our customer loyalty?
+2. What percentage of our customers are repeat buyers, and how does this reflect on our customer loyalty?
 
-How does the repeat customer rate vary across different time periods, such as months and seasons?
+3. How does the repeat customer rate vary across different time periods, such as months and seasons?
 
-Are there regional differences in the repeat customer rate that we should be aware of?
+4. Are there regional differences in the repeat customer rate that we should be aware of?
 
-How do repeat customers contribute to overall sales volume and revenue compared to new customers?
+5. How do repeat customers contribute to overall sales volume and revenue compared to new customers?
 
-What marketing efforts have been most effective in driving repeat purchases within this customer base?
+6. What marketing efforts have been most effective in driving repeat purchases within this customer base?
 
 # 📖 Insights and Recommendations:
 
-Out of a total of 5,000 customers, 1,474 returned for at least one more purchase, resulting in a repeat customer rate of 29.5%. 
+- Out of a total of 5,000 customers, 1,474 returned for at least one more purchase, resulting in a repeat customer rate of 29.5%. 
 
-The summer season stood out, achieving the highest repeat customer rate at 30.4%, suggesting successful engagement and possible season-specific strategies worth replicating. On the other hand, spring had the lowest repeat rate at 29.1%, signaling an opportunity to improve our customer experience or promotional efforts during that period.
+- The summer season stood out, achieving the highest repeat customer rate at 30.4%, suggesting successful engagement and possible season-specific strategies worth replicating. On the other hand, spring had the lowest repeat rate at 29.1%, signaling an opportunity to improve our customer experience or promotional efforts during that period.
 
-Referral-based marketing campaigns performed exceptionally well, attracting a significant number of repeat customers, highlighting the power of word-of-mouth and peer influence. In contrast, email promotions showed minimal impact, indicating the need to re-evaluate or refresh our email marketing strategy.
+- Referral-based marketing campaigns performed exceptionally well, attracting a significant number of repeat customers, highlighting the power of word-of-mouth and peer influence. In contrast, email promotions showed minimal impact, indicating the need to re-evaluate or refresh our email marketing strategy.
 
 This story not only sheds light on current performance but also provides a roadmap for targeted, data-driven decisions to enhance customer retention and boost long-term value.
