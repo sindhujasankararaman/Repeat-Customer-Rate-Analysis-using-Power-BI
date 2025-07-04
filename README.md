@@ -9,7 +9,7 @@ The goal of this project is to analyze monthly and seasonal trends in repeat pur
 # Data Preparation and Visualization Approach
 To ensure the accuracy and quality of the analysis, I utilized Power Query within Power BI for comprehensive data cleaning and transformation. This process involved:
 
--Removing duplicates and handling missing values
+- Removing duplicates and handling missing values
 
 -Formatting and standardizing date and categorical fields
 
