@@ -9,23 +9,23 @@ The goal of this project is to analyze monthly and seasonal trends in repeat pur
 # Data Preparation and Visualization Approach
 To ensure the accuracy and quality of the analysis, I utilized Power Query within Power BI for comprehensive data cleaning and transformation. This process involved:
 
-Removing duplicates and handling missing values
+-Removing duplicates and handling missing values
 
-Formatting and standardizing date and categorical fields
+-Formatting and standardizing date and categorical fields
 
-Merging and shaping datasets such as customer transactions, campaign data, and regional information
+-Merging and shaping datasets such as customer transactions, campaign data, and regional information
 
-Creating calculated columns and measures to support analysis
+-Creating calculated columns and measures to support analysis
 
 For the visualization and insights delivery, I leveraged Power BI’s rich visualization capabilities to build interactive dashboards that illustrate:
 
-Monthly and seasonal trends in repeat customer purchases
+-Monthly and seasonal trends in repeat customer purchases
 
-Geographic distribution of repeat customer rates and orders
+-Geographic distribution of repeat customer rates and orders
 
-The impact of marketing campaigns on repeat purchase behavior
+-The impact of marketing campaigns on repeat purchase behavior
 
-Key metrics like repeat customer rate, sales contribution, and purchase frequency
+-Key metrics like repeat customer rate, sales contribution, and purchase frequency
 
 This combination of Power Query for data preparation and Power BI for visualization enabled a seamless end-to-end analytics workflow, providing clear and actionable insights for stakeholders.
 # Business Questions
