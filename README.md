@@ -49,7 +49,7 @@ I have delved deep into the data to answer the following business questions
 
 6. What marketing efforts have been most effective in driving repeat purchases within this customer base?
 
-# Insights and Recommendations
+# Insights
 
 - Out of a total of 5,000 customers, 1,474 returned for at least one more purchase, resulting in a repeat customer rate of 29.5%. 
 
