@@ -33,7 +33,7 @@ For the visualization and insights delivery, I leveraged Power BI’s rich visua
 This combination of Power Query for data preparation and Power BI for visualization enabled a seamless end-to-end analytics workflow, providing clear and actionable insights for stakeholders.
 
 To support deeper exploration, the dashboard is fully interactive—users can hover over visuals and drill down by month, season, or year, enabling customized insights based on temporal trends.
-Dashboard can be downloaded by clicking [here](https://github.com/sindhujasankararaman/Repeat-Customer-Rate-Analysis-using-Power-BI/blob/main/Repeat%20Customer%20Rate%20(Finished).pbix).
+                  Dashboard can be downloaded by clicking [here](https://github.com/sindhujasankararaman/Repeat-Customer-Rate-Analysis-using-Power-BI/blob/main/Repeat%20Customer%20Rate%20(Finished).pbix).
 
 # Business Questions
 I have delved deep into the data to answer the following business questions:
