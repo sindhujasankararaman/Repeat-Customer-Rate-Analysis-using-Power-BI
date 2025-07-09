@@ -4,7 +4,7 @@ Business success isn’t just about attracting new customers; it’s about ensur
 - [Introduction and Situation](#introduction-and-situation)
 - [Data Preparation and Visualization Approach](#data-preparation-and-visualization-approach)
 - [Business Questions](#business-questions)
-- [Insights]
+- [Insights](#insights)
 - [Recommendations](#recommendations)
 # Introduction and Situation
 This project was initiated in response to a strategic request from the Director of Customer Engagement, seeking a deeper, data-driven understanding of repeat customer behavior to support upcoming growth initiatives. While anecdotal evidence indicated that repeat purchases play a significant role in the company’s revenue, there was no systematic analysis available to validate these insights or uncover detailed patterns.
