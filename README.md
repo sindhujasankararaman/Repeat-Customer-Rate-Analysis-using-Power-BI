@@ -44,7 +44,7 @@ I have delved deep into the data to answer the following business questions:
 5. How do repeat customers contribute to overall sales volume and revenue compared to new customers?  
 6. What marketing efforts have been most effective in driving repeat purchases within this customer base?
 
-#🔍 Insights
+# Insights
 
 - Out of **5,000 customers**, **1,474 returned**, resulting in a **repeat customer rate of 29.5%**.  
 - **Summer** had the highest repeat rate (**30.4%**), indicating stronger customer engagement during that season.  
