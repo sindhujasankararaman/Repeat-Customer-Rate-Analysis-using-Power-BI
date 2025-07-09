@@ -4,7 +4,8 @@ Business success isn’t just about attracting new customers; it’s about ensur
 - [Introduction and Situation](#introduction-and-situation)
 - [Data Preparation and Visualization Approach](#data-preparation-and-visualization-approach)
 - [Business Questions](#business-questions)
-- [Insights and Recommendations](#insights-and-recommendations)
+- [Insights]
+- [Recommendations](#recommendations)
 # Introduction and Situation
 This project was initiated in response to a strategic request from the Director of Customer Engagement, seeking a deeper, data-driven understanding of repeat customer behavior to support upcoming growth initiatives. While anecdotal evidence indicated that repeat purchases play a significant role in the company’s revenue, there was no systematic analysis available to validate these insights or uncover detailed patterns.
 The goal of this project is to analyze monthly and seasonal trends in repeat purchases, measure the contribution of repeat customers to overall sales, and evaluate the impact of marketing campaigns on encouraging customer loyalty. By leveraging transaction and campaign data, the analysis aims to provide clear, actionable insights that will help optimize customer engagement strategies, improve campaign effectiveness, and ultimately drive sustainable business growth
@@ -55,5 +56,12 @@ I have delved deep into the data to answer the following business questions
 - The summer season stood out, achieving the highest repeat customer rate at 30.4%, suggesting successful engagement and possible season-specific strategies worth replicating. On the other hand, spring had the lowest repeat rate at 29.1%, signaling an opportunity to improve our customer experience or promotional efforts during that period.
 
 - Referral-based marketing campaigns performed exceptionally well, attracting a significant number of repeat customers, highlighting the power of word-of-mouth and peer influence. In contrast, email promotions showed minimal impact, indicating the need to re-evaluate or refresh our email marketing strategy.
+# Recommendations
+Replicate and scale summer engagement strategies across other seasons to boost repeat purchases year-round.
 
-This story not only sheds light on current performance but also provides a roadmap for targeted, data-driven decisions to enhance customer retention and boost long-term value.
+Improve spring campaign efforts by enhancing the customer experience or offering more compelling promotions during that period.
+
+Invest more in referral-based marketing, possibly by launching or expanding referral incentive programs.
+
+Re-evaluate the email marketing approach—consider A/B testing new subject lines, personalization strategies, or better segmentation to increase impact.
+
