@@ -14,7 +14,7 @@ This project was initiated in response to a strategic request from the **Directo
 The goal of this project is to analyze **monthly and seasonal trends** in repeat purchases, measure the contribution of repeat customers to overall sales, and evaluate the impact of marketing campaigns on encouraging customer loyalty. By leveraging transaction and campaign data, the analysis aims to provide clear, actionable insights that will help optimize customer engagement strategies, improve campaign effectiveness, and ultimately drive sustainable business growth.
 
 # Data Preparation and Visualization Approach
-Dataset used for the project can be accessed [here](https://github.com/sindhujasankararaman/Repeat-Customer-Rate-Analysis-using-Power-BI/blob/main/repeat_customer_rate_data.cs).
+Dataset used for the project can be accessed [here](https://github.com/sindhujasankararaman/Repeat-Customer-Rate-Analysis-using-Power-BI/blob/main/repeat_customer_rate_data.csv).
 
 To ensure the accuracy and quality of the analysis, I utilized Power Query within Power BI for comprehensive data cleaning and transformation. This process involved:
 
