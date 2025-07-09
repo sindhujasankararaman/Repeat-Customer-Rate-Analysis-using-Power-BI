@@ -49,6 +49,14 @@ I have delved deep into the data to answer the following business questions
 
 6. What marketing efforts have been most effective in driving repeat purchases within this customer base?
 
+## 🔍 Insights
+
+- Out of 5,000 customers, **1,474 returned**, resulting in a **repeat customer rate of 29.5%**.
+- **Summer** had the highest repeat rate (**30.4%**), indicating stronger customer engagement during that season.
+- **Spring** had the lowest repeat rate (**29.1%**), suggesting weaker engagement.
+- **Referral-based marketing campaigns** were highly effective in driving repeat purchases, emphasizing the influence of peer recommendations.
+- **Email promotions** showed minimal impact on repeat purchases, indicating potential fatigue or lack of effectiveness.
+
 # Insights
 
 - Out of a total of 5,000 customers, 1,474 returned for at least one more purchase, resulting in a repeat customer rate of 29.5%. 
