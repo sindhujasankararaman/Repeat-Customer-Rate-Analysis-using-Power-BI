@@ -1,4 +1,4 @@
-## Overview 📖
+# Overview 📖
 Business success isn’t just about attracting new customers; it’s about ensuring that those who have purchased once choose to return. To support this, I developed a Power BI dashboard that provides stakeholders with clear insights into Customer Repeat Value (CRV) and the key factors influencing it. This metric empowers businesses to fine-tune their strategies, enhance customer loyalty, and ultimately increase both lifetime customer value and overall revenue.
 ## Table of Contents 📚
 # Introduction and Situation
