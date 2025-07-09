@@ -5,7 +5,7 @@ Business success isn’t just about attracting new customers; it’s about ensur
 - [Introduction and Situation](#introduction-and-situation)
 - [Data Preparation and Visualization Approach](#data-preparation-and-visualization-approach)
 - [Business Questions](#business-questions)
-- [Insights](#🔍 Insights)
+- [Insights](#🔍Insights)
 - [Recommendations](#recommendations)
 
 # Introduction and Situation
