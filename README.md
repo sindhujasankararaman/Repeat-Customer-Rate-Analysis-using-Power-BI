@@ -57,11 +57,11 @@ I have delved deep into the data to answer the following business questions
 
 - Referral-based marketing campaigns performed exceptionally well, attracting a significant number of repeat customers, highlighting the power of word-of-mouth and peer influence. In contrast, email promotions showed minimal impact, indicating the need to re-evaluate or refresh our email marketing strategy.
 # Recommendations
-Replicate and scale summer engagement strategies across other seasons to boost repeat purchases year-round.
+-Replicate and scale summer engagement strategies across other seasons to boost repeat purchases year-round.
 
-Improve spring campaign efforts by enhancing the customer experience or offering more compelling promotions during that period.
+-Improve spring campaign efforts by enhancing the customer experience or offering more compelling promotions during that period.
 
-Invest more in referral-based marketing, possibly by launching or expanding referral incentive programs.
+-Invest more in referral-based marketing, possibly by launching or expanding referral incentive programs.
 
-Re-evaluate the email marketing approach—consider A/B testing new subject lines, personalization strategies, or better segmentation to increase impact.
+-Re-evaluate the email marketing approach—consider A/B testing new subject lines, personalization strategies, or better segmentation to increase impact.
 
