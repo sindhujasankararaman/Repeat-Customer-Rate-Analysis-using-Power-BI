@@ -64,11 +64,21 @@ I have delved deep into the data to answer the following business questions:
 
 # Insights
 
-- Out of **5,000 customers**, **1,474 returned**, resulting in a **repeat customer rate of 29.5%**.  
-- **Summer** had the highest repeat rate (**30.4%**), indicating stronger customer engagement during that season.  
-- **Spring** had the lowest repeat rate (**29.1%**), suggesting weaker engagement.  
-- **Referral-based marketing campaigns** were highly effective in driving repeat purchases, emphasizing the influence of **peer recommendations**.  
-- **Email promotions** showed minimal impact on repeat purchases, indicating potential fatigue or lack of effectiveness.
+- Customer Loyalty: The repeat customer rate decreased from 29.5% (2020) to 28.85% (2023), signaling a modest decline in loyalty.
+
+- Marketing Effectiveness: Referral-based campaigns consistently outperformed other tactics, proving the strong influence of peer-driven trust in driving repeat purchases.
+
+- Regional Performance Shifts:
+
+-- South has emerged as the growth leader since 2022.
+
+West declined sharply from leader to laggard across four years.
+
+East maintained stable, middle-tier performance.
+
+North rebounded in 2023 after years of underperformance.
+
+Overall Trend: Growth opportunities exist in strengthening loyalty, replicating high-performing regional strategies, and addressing underperforming markets.
 
 # Recommendations
 
