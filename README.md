@@ -68,7 +68,7 @@ I have delved deep into the data to answer the following business questions:
 
 - Marketing Effectiveness: Referral-based campaigns consistently outperformed other tactics, proving the strong influence of peer-driven trust in driving repeat purchases.
 
-Regional Performance Shifts:
+  Regional Performance Shifts:
 
 - South has emerged as the growth leader since 2022.
 
