@@ -13,6 +13,17 @@ Business success isn’t just about attracting new customers; it’s about ensur
 Between 2020 and 2023, the customer base contracted from 1,322 to 1,218, while the repeat customer rate (RCR) declined slightly from 29.5% to 28.85%. This signals challenges in both acquisition and retention. Importantly, the analysis shows that RCR is directly proportional to marketing spend — as investment in campaigns decreased, repeat customer rates also declined.
 
 Despite the overall drop, referral-based marketing campaigns consistently proved to be the most effective driver of repeat purchases, underscoring the power of peer influence in fostering customer loyalty.
+Sales performance across regions revealed notable shifts in market dynamics:
+
+The West, initially the strongest region in 2020 and 2021, declined steadily to become the weakest performer by 2023.
+
+The South rose sharply, overtaking other regions to secure the top spot in 2022 and 2023.
+
+The East remained relatively stable in the middle tier, showing consistent performance.
+
+The North, after ranking lowest for three consecutive years, achieved a surprising recovery in 2023, moving up to second place.
+
+Key Takeaway: While referral campaigns are the most reliable lever for strengthening repeat purchases, future growth also depends on replicating the South’s success in other regions and addressing the West’s decline to rebalance performance.
 
 # Business Request:
 This project was initiated in response to a strategic request from the **Director of Customer Engagement**, seeking a deeper, data-driven understanding of repeat customer behavior to support upcoming growth initiatives. While anecdotal evidence indicated that repeat purchases play a significant role in the company’s revenue, there was no systematic analysis available to validate these insights or uncover detailed patterns.
