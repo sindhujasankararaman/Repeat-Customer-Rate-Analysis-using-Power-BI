@@ -70,23 +70,20 @@ I have delved deep into the data to answer the following business questions:
 
 # Insights
 
-- Customer Loyalty: Repeat customer rate declined slightly from 29.5% in 2020 to 28.85% in 2023, indicating a modest dip in loyalty that warrants attention.
+- **Customer Loyalty:** Repeat customer rate declined slightly from **29.5% in 2020 to 28.85% in 2023**, indicating a modest dip in loyalty that warrants attention.
 
-- Marketing Effectiveness: Referral-driven campaigns consistently outperform other tactics, highlighting the power of peer influence and trust in driving repeat purchases.
+- **Marketing Effectiveness:** Referral-driven campaigns consistently outperform other tactics, highlighting the **power of peer influence and trust** in driving repeat purchases.
 
-- Marketing Spend and Sales Correlation: Analysis shows a direct relationship between marketing investment and sales—lower marketing spend corresponds to lower sales, emphasizing the need for sustained and strategic marketing efforts.
+- **Marketing Spend and Sales Correlation:** Analysis shows a **direct relationship between marketing investment and sales**—lower marketing spend corresponds to lower sales, emphasizing the need for sustained and strategic marketing efforts.
 
-**Regional Performance Shifts:**
+## Regional Performance Shifts
+- **South:** Emerged as the growth leader since 2022, demonstrating effective regional strategies.
+- **West:** Experienced a sharp decline, moving from top performer to underperformer over four years.
+- **East:** Maintained a stable, mid-tier performance with limited volatility.
+- **North:** Rebounded in 2023 after prolonged underperformance, showing potential for momentum-driven growth.
 
-- South: Emerged as the growth leader since 2022, demonstrating effective regional strategies.
+**Overall Trend:** Opportunities exist to **strengthen customer loyalty**, **replicate high-performing regional strategies**, **optimize marketing spend**, and **revitalize underperforming markets** to drive balanced, sustainable growth.
 
-- West: Experienced a sharp decline, moving from top performer to underperformer over four years.
-
-- East: Maintained a stable, mid-tier performance with limited volatility.
-
-- North: Rebounded in 2023 after prolonged underperformance, showing potential for momentum-driven growth.
-
-Overall Trend: Opportunities exist to strengthen customer loyalty, replicate high-performing regional strategies, optimize marketing spend, and revitalize underperforming markets to drive balanced, sustainable growth.
 
 # Recommendations
 1. **Scale Referral Programs**
