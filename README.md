@@ -76,7 +76,7 @@ I have delved deep into the data to answer the following business questions:
 
 - **Marketing Spend and Sales Correlation:** Analysis shows a **direct relationship between marketing investment and sales**—lower marketing spend corresponds to lower sales, emphasizing the need for sustained and strategic marketing efforts.
 
-## Regional Performance Shifts
+  ## Regional Performance Shifts
 - **South:** Emerged as the growth leader since 2022, demonstrating effective regional strategies.
 - **West:** Experienced a sharp decline, moving from top performer to underperformer over four years.
 - **East:** Maintained a stable, mid-tier performance with limited volatility.
