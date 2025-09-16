@@ -1,4 +1,4 @@
-## Table of Contents 📚
+# Table of Contents 📚
 - Executive Summary
 - Business Request
 - Data Preparation and Visualization Approach
@@ -90,7 +90,7 @@ Overall Trend: Growth opportunities exist in strengthening loyalty, replicating 
 
 1. Scale Referral Programs
 
-- Expand referral incentives and recognition programs to maximize their proven impact on repeat purchases.
+ - Expand referral incentives and recognition programs to maximize their proven impact on repeat purchases.
 
 2. Revitalize the West Region
 
