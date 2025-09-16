@@ -2,11 +2,11 @@
 Business success isn’t just about attracting new customers; it’s about ensuring that those who have purchased once choose to return. To support this, I developed a **Power BI dashboard** that provides stakeholders with clear insights into **Customer Repeat Value (CRV)** and the key factors influencing it. This metric empowers businesses to fine-tune their strategies, enhance customer loyalty, and ultimately increase both **lifetime customer value** and **overall revenue**.
 
 ## Table of Contents 📚
-- [Business Request]
-- [Data Preparation and Visualization Approach](#data-preparation-and-visualization-approach)
-- [Business Questions](#business-questions)
-- [Insights](#insights)
-- [Recommendations](#recommendations)
+- Business Request
+- Data Preparation and Visualization Approach
+- Business Questions
+- Insights
+- Recommendations
 
 # Business Request:
 This project was initiated in response to a strategic request from the **Director of Customer Engagement**, seeking a deeper, data-driven understanding of repeat customer behavior to support upcoming growth initiatives. While anecdotal evidence indicated that repeat purchases play a significant role in the company’s revenue, there was no systematic analysis available to validate these insights or uncover detailed patterns.
