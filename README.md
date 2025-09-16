@@ -15,13 +15,13 @@ Between 2020 and 2023, the customer base contracted from 1,322 to 1,218, while t
 Despite the overall drop, referral-based marketing campaigns consistently proved to be the most effective driver of repeat purchases, underscoring the power of peer influence in fostering customer loyalty.
 Sales performance across regions revealed notable shifts in market dynamics:
 
-The West, initially the strongest region in 2020 and 2021, declined steadily to become the weakest performer by 2023.
+- The West, initially the strongest region in 2020 and 2021, declined steadily to become the weakest performer by 2023.
 
-The South rose sharply, overtaking other regions to secure the top spot in 2022 and 2023.
+- The South rose sharply, overtaking other regions to secure the top spot in 2022 and 2023.
 
-The East remained relatively stable in the middle tier, showing consistent performance.
+- The East remained relatively stable in the middle tier, showing consistent performance.
 
-The North, after ranking lowest for three consecutive years, achieved a surprising recovery in 2023, moving up to second place.
+- The North, after ranking lowest for three consecutive years, achieved a surprising recovery in 2023, moving up to second place.
 
 Key Takeaway: While referral campaigns are the most reliable lever for strengthening repeat purchases, future growth also depends on replicating the South’s success in other regions and addressing the West’s decline to rebalance performance.
 
