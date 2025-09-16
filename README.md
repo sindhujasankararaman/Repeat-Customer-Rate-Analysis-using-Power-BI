@@ -86,31 +86,31 @@ Overall Trend: Growth opportunities exist in strengthening loyalty, replicating 
 
 - Expand referral incentives and recognition programs to maximize their proven impact on repeat purchases.
 
-Revitalize the West Region
+2. Revitalize the West Region
 
-Conduct root-cause analysis to identify declining factors (e.g., competition, service gaps, product mix).
+- Conduct root-cause analysis to identify declining factors (e.g., competition, service gaps, product mix).
 
-Deploy targeted campaigns or localized promotions to re-engage this market.
+- Deploy targeted campaigns or localized promotions to re-engage this market.
 
-Replicate the South’s Success
+3. Replicate the South’s Success
 
-Analyze South’s winning strategies (pricing, promotions, partnerships, customer engagement tactics).
+- Analyze South’s winning strategies (pricing, promotions, partnerships, customer engagement tactics).
 
-Adapt and roll out similar initiatives in East and North to drive balanced growth.
+- Adapt and roll out similar initiatives in East and North to drive balanced growth.
 
-Strengthen Customer Retention Beyond Referrals
+4. Strengthen Customer Retention Beyond Referrals
 
-Enhance loyalty programs, personalized offers, and customer lifecycle engagement to reduce dependence on one marketing channel.
+- Enhance loyalty programs, personalized offers, and customer lifecycle engagement to reduce dependence on one marketing channel.
 
-Leverage Regional Insights for Targeted Growth
+5. Leverage Regional Insights for Targeted Growth
 
-Invest in region-specific analytics to tailor marketing and sales approaches.
+- Invest in region-specific analytics to tailor marketing and sales approaches.
 
-Double down on North’s momentum to secure its upward trajectory.
+- Double down on North’s momentum to secure its upward trajectory.
 
-Continuous Monitoring
+6. Continuous Monitoring
 
-Track repeat purchase rates and regional sales rankings quarterly to detect early shifts in performance.
+- Track repeat purchase rates and regional sales rankings quarterly to detect early shifts in performance.
 
 
 
