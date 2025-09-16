@@ -1,13 +1,13 @@
-# Overview 📖
-Business success isn’t just about attracting new customers; it’s about ensuring that those who have purchased once choose to return. To support this, I developed a **Power BI dashboard** that provides stakeholders with clear insights into **Customer Repeat Value (CRV)** and the key factors influencing it. This metric empowers businesses to fine-tune their strategies, enhance customer loyalty, and ultimately increase both **lifetime customer value** and **overall revenue**.
-
 ## Table of Contents 📚
+- Overview
 - Executive Summary
 - Business Request
 - Data Preparation and Visualization Approach
 - Business Questions
 - Insights
 - Recommendations
+# Overview 📖
+Business success isn’t just about attracting new customers; it’s about ensuring that those who have purchased once choose to return. To support this, I developed a **Power BI dashboard** that provides stakeholders with clear insights into **Customer Repeat Value (CRV)** and the key factors influencing it. This metric empowers businesses to fine-tune their strategies, enhance customer loyalty, and ultimately increase both **lifetime customer value** and **overall revenue**.
 # Executive Summary
 
 Between 2020 and 2023, the customer base contracted from 1,322 to 1,218, while the repeat customer rate (RCR) declined slightly from 29.5% to 28.85%. This signals challenges in both acquisition and retention. Importantly, the analysis shows that RCR is directly proportional to marketing spend — as investment in campaigns decreased, repeat customer rates also declined.
