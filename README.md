@@ -68,15 +68,15 @@ I have delved deep into the data to answer the following business questions:
 
 - Marketing Effectiveness: Referral-based campaigns consistently outperformed other tactics, proving the strong influence of peer-driven trust in driving repeat purchases.
 
-- Regional Performance Shifts:
+Regional Performance Shifts:
 
--- South has emerged as the growth leader since 2022.
+- South has emerged as the growth leader since 2022.
 
-West declined sharply from leader to laggard across four years.
+- West declined sharply from leader to laggard across four years.
 
-East maintained stable, middle-tier performance.
+- East maintained stable, middle-tier performance.
 
-North rebounded in 2023 after years of underperformance.
+- North rebounded in 2023 after years of underperformance.
 
 Overall Trend: Growth opportunities exist in strengthening loyalty, replicating high-performing regional strategies, and addressing underperforming markets.
 
