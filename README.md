@@ -1,13 +1,11 @@
 ## Table of Contents 📚
-- Overview
 - Executive Summary
 - Business Request
 - Data Preparation and Visualization Approach
 - Business Questions
 - Insights
 - Recommendations
-# Overview 📖
-Business success isn’t just about attracting new customers; it’s about ensuring that those who have purchased once choose to return. To support this, I developed a **Power BI dashboard** that provides stakeholders with clear insights into **Customer Repeat Value (CRV)** and the key factors influencing it. This metric empowers businesses to fine-tune their strategies, enhance customer loyalty, and ultimately increase both **lifetime customer value** and **overall revenue**.
+
 # Executive Summary
 
 Between 2020 and 2023, the customer base contracted from 1,322 to 1,218, while the repeat customer rate (RCR) declined slightly from 29.5% to 28.85%. This signals challenges in both acquisition and retention. Importantly, the analysis shows that RCR is directly proportional to marketing spend — as investment in campaigns decreased, repeat customer rates also declined.
@@ -26,9 +24,17 @@ Sales performance across regions revealed notable shifts in market dynamics:
 Key Takeaway: While referral campaigns are the most reliable lever for strengthening repeat purchases, future growth also depends on replicating the South’s success in other regions and addressing the West’s decline to rebalance performance.
 
 # Business Request:
-This project was initiated in response to a strategic request from the **Director of Customer Engagement**, seeking a deeper, data-driven understanding of repeat customer behavior to support upcoming growth initiatives. While anecdotal evidence indicated that repeat purchases play a significant role in the company’s revenue, there was no systematic analysis available to validate these insights or uncover detailed patterns.
+This project originated from a strategic request by the Director of Customer Engagement, who emphasized the importance of not only acquiring new customers but also ensuring that existing customers continue to return. While sales and support teams had observed recurring customer activity, leadership sought a systematic, data-driven analysis to validate these observations and uncover deeper patterns.
 
-The goal of this project is to analyze **monthly and seasonal trends** in repeat purchases, measure the contribution of repeat customers to overall sales, and evaluate the impact of marketing campaigns on encouraging customer loyalty. By leveraging transaction and campaign data, the analysis aims to provide clear, actionable insights that will help optimize customer engagement strategies, improve campaign effectiveness, and ultimately drive sustainable business growth.
+Specifically, the request centered on understanding:
+
+- Whether seasonal or monthly trends exist in repeat purchases
+
+- The contribution of returning customers to overall sales
+
+- How these insights could inform engagement strategies and campaign optimization
+
+The ultimate goal is to equip stakeholders with clear visual insights that will enhance strategic discussions, strengthen customer loyalty initiatives, and ensure that repeat business continues to drive long-term growth.
 
 # Data Preparation and Visualization Approach
 Dataset used for the project can be accessed [here](https://github.com/sindhujasankararaman/Repeat-Customer-Rate-Analysis-using-Power-BI/blob/main/repeat_customer_rate_data.csv).
