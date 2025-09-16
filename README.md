@@ -70,21 +70,23 @@ I have delved deep into the data to answer the following business questions:
 
 # Insights
 
-- Customer Loyalty: The repeat customer rate decreased from 29.5% (2020) to 28.85% (2023), signaling a modest decline in loyalty.
+- Customer Loyalty: Repeat customer rate declined slightly from 29.5% in 2020 to 28.85% in 2023, indicating a modest dip in loyalty that warrants attention.
 
-- Marketing Effectiveness: Referral-based campaigns consistently outperformed other tactics, proving the strong influence of peer-driven trust in driving repeat purchases.
+- Marketing Effectiveness: Referral-driven campaigns consistently outperform other tactics, highlighting the power of peer influence and trust in driving repeat purchases.
 
-  **Regional Performance Shifts:**
+- Marketing Spend and Sales Correlation: Analysis shows a direct relationship between marketing investment and sales—lower marketing spend corresponds to lower sales, emphasizing the need for sustained and strategic marketing efforts.
 
-- South has emerged as the growth leader since 2022.
+**Regional Performance Shifts:**
 
-- West declined sharply from leader to laggard across four years.
+- South: Emerged as the growth leader since 2022, demonstrating effective regional strategies.
 
-- East maintained stable, middle-tier performance.
+- West: Experienced a sharp decline, moving from top performer to underperformer over four years.
 
-- North rebounded in 2023 after years of underperformance.
+- East: Maintained a stable, mid-tier performance with limited volatility.
 
-Overall Trend: Growth opportunities exist in strengthening loyalty, replicating high-performing regional strategies, and addressing underperforming markets.
+- North: Rebounded in 2023 after prolonged underperformance, showing potential for momentum-driven growth.
+
+Overall Trend: Opportunities exist to strengthen customer loyalty, replicate high-performing regional strategies, optimize marketing spend, and revitalize underperforming markets to drive balanced, sustainable growth.
 
 # Recommendations
 1. Scale Referral Programs
