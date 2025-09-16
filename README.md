@@ -82,11 +82,9 @@ Overall Trend: Growth opportunities exist in strengthening loyalty, replicating 
 
 # Recommendations
 
-Recommendations
+1. Scale Referral Programs
 
-- Scale Referral Programs
-
-Expand referral incentives and recognition programs to maximize their proven impact on repeat purchases.
+- Expand referral incentives and recognition programs to maximize their proven impact on repeat purchases.
 
 Revitalize the West Region
 
