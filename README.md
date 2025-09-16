@@ -87,7 +87,7 @@ I have delved deep into the data to answer the following business questions:
 Overall Trend: Growth opportunities exist in strengthening loyalty, replicating high-performing regional strategies, and addressing underperforming markets.
 
 # Recommendations
-Scale Referral Programs
+1. Scale Referral Programs
 
  - Expand referral incentives and recognition programs to maximize their proven impact on repeat purchases.
 
