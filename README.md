@@ -5,7 +5,7 @@
 - Business Questions
 - Insights
 - Recommendations
-
+---
 # Executive Summary:
 
 Between 2020 and 2023, the customer base contracted from 1,322 to 1,218, while the repeat customer rate (RCR) declined slightly from 29.5% to 28.85%. This signals challenges in both acquisition and retention. Importantly, the analysis shows that RCR is directly proportional to marketing spend — as investment in campaigns decreased, repeat customer rates also declined.
