@@ -22,7 +22,6 @@ Sales performance across regions revealed notable shifts in market dynamics:
 - The North, after ranking lowest for three consecutive years, achieved a surprising recovery in 2023, moving up to second place.
 
 Key Takeaway: While referral campaigns are the most reliable lever for strengthening repeat purchases, future growth also depends on replicating the South’s success in other regions and addressing the West’s decline to rebalance performance.
-
 # Business Request:
 This project originated from a strategic request by the Director of Customer Engagement, who emphasized the importance of not only acquiring new customers but also ensuring that existing customers continue to return. While sales and support teams had observed recurring customer activity, leadership sought a systematic, data-driven analysis to validate these observations and uncover deeper patterns.
 
