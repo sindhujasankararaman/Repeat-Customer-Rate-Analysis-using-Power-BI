@@ -6,7 +6,7 @@
 - Insights
 - Recommendations
 
-# Executive Summary
+# Executive Summary:
 
 Between 2020 and 2023, the customer base contracted from 1,322 to 1,218, while the repeat customer rate (RCR) declined slightly from 29.5% to 28.85%. This signals challenges in both acquisition and retention. Importantly, the analysis shows that RCR is directly proportional to marketing spend — as investment in campaigns decreased, repeat customer rates also declined.
 
@@ -36,7 +36,7 @@ Specifically, the request centered on understanding:
 
 The ultimate goal is to equip stakeholders with clear visual insights that will enhance strategic discussions, strengthen customer loyalty initiatives, and ensure that repeat business continues to drive long-term growth.
 
-# Data Preparation and Visualization Approach
+# Data Preparation and Visualization Approach:
 Dataset used for the project can be accessed [here](https://github.com/sindhujasankararaman/Repeat-Customer-Rate-Analysis-using-Power-BI/blob/main/repeat_customer_rate_data.csv).
 
 To ensure the accuracy and quality of the analysis, I utilized Power Query within Power BI for comprehensive data cleaning and transformation. This process involved:
@@ -58,7 +58,7 @@ This combination of Power Query for data preparation and Power BI for visualizat
 To support deeper exploration, the dashboard is fully interactive—users can hover over visuals and drill down by month, season, or year, enabling customized insights based on temporal trends.
                   Dashboard can be downloaded by clicking [here](https://github.com/sindhujasankararaman/Repeat-Customer-Rate-Analysis-using-Power-BI/blob/main/Repeat%20Customer%20Rate%20(Finished).pbix).
 
-# Business Questions
+# Business Questions:
 I have delved deep into the data to answer the following business questions:
 
 1. What is the total size of our customer base, and how many of them are repeat customers?  
@@ -68,7 +68,7 @@ I have delved deep into the data to answer the following business questions:
 5. How do repeat customers contribute to overall sales volume and revenue compared to new customers?  
 6. What marketing efforts have been most effective in driving repeat purchases within this customer base?
 
-# Insights
+# Insights:
 
 - **Customer Loyalty:** Repeat customer rate declined slightly from **29.5% in 2020 to 28.85% in 2023**, indicating a modest dip in loyalty that warrants attention.
 
@@ -86,7 +86,7 @@ I have delved deep into the data to answer the following business questions:
 
 ---
 
-# Recommendations
+# Recommendations:
 
 1. **Scale Referral Programs**
    - Expand incentives and recognition programs to maximize the proven impact of referral campaigns on repeat purchases.
