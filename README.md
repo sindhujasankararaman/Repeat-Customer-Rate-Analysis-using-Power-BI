@@ -5,10 +5,10 @@
 - Business Questions
 - Insights
 - Recommendations
----
+
 # Executive Summary:
 
-Between 2020 and 2023, the customer base contracted from 1,322 to 1,218, while the repeat customer rate (RCR) declined slightly from 29.5% to 28.85%. This signals challenges in both acquisition and retention. Importantly, the analysis shows that RCR is directly proportional to marketing spend — as investment in campaigns decreased, repeat customer rates also declined.
+Between 2020 and 2023, the customer base contracted from 1,322 to 1,218, while the **repeat customer rate (RCR) declined slightly from 29.5% to 28.85%.** This signals challenges in both acquisition and retention. Importantly, the analysis shows that RCR is directly proportional to marketing spend — as investment in campaigns decreased, repeat customer rates also declined.
 
 Despite the overall drop, referral-based marketing campaigns consistently proved to be the most effective driver of repeat purchases, underscoring the power of peer influence in fostering customer loyalty.
 Sales performance across regions revealed notable shifts in market dynamics:
@@ -21,7 +21,7 @@ Sales performance across regions revealed notable shifts in market dynamics:
 
 - The North, after ranking lowest for three consecutive years, achieved a surprising recovery in 2023, moving up to second place.
 
-Key Takeaway: While referral campaigns are the most reliable lever for strengthening repeat purchases, future growth also depends on replicating the South’s success in other regions and addressing the West’s decline to rebalance performance.
+**Key Takeaway:** While referral campaigns are the most reliable lever for strengthening repeat purchases, future growth also depends on replicating the South’s success in other regions and addressing the West’s decline to rebalance performance.
 # Business Request:
 This project originated from a strategic request by the Director of Customer Engagement, who emphasized the importance of not only acquiring new customers but also ensuring that existing customers continue to return. While sales and support teams had observed recurring customer activity, leadership sought a systematic, data-driven analysis to validate these observations and uncover deeper patterns.
 
@@ -82,9 +82,6 @@ I have delved deep into the data to answer the following business questions:
 - **North:** Rebounded in 2023 after prolonged underperformance, showing potential for momentum-driven growth.
 
 **Overall Trend:** Opportunities exist to **strengthen customer loyalty**, **replicate high-performing regional strategies**, **optimize marketing spend**, and **revitalize underperforming markets** to drive balanced, sustainable growth.
-
----
-
 # Recommendations:
 
 1. **Scale Referral Programs**
